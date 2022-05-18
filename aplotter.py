@@ -30,7 +30,7 @@
 #OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 #OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #-----------------------------------------------
-ported to python3 by Helmut Carter in 2022
+#ported to python3 by Helmut Carter in 2022
 #-----------------------------------------------
 import math
 
